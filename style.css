@@ -11,9 +11,28 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+
+/* icons */
 .fas{
     color: #5243C2;
     background-color: rgb(223, 223, 245);
     border-radius: 7px;
-    
 }
+
+.fas2{
+    color: #ffffff;
+    background-color: rgba(22, 26, 247, 0.767);
+    border-radius: 7px;
+}
+
+
+/* comstum card */
+#bluecard{
+    
+    height: 480px;
+    width: 100%; 
+    border-radius: 20px;
+}
+
+
+
