@@ -1,0 +1,19 @@
+/* font source file */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Manrope:wght@200&family=Poppins:ital,wght@0,400;0,500;0,700;1,400&family=Roboto:wght@400;500;700&display=swap');
+
+
+
+/* common css */
+
+/* fonts */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.fas{
+    color: #5243C2;
+    background-color: rgb(223, 223, 245);
+    border-radius: 7px;
+    
+}
